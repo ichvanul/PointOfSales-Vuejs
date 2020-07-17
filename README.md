@@ -25,7 +25,7 @@ Point of Sales is a website created for buying and selling transactions, especia
 
 ## Demo
 
-![Screenshot](https://github.com/ichvanul/PointOfSales-VueJs/blob/master/src/assets/img/collage2.jpg)
+![Screenshot](https://github.com/ichvanul/PointOfSales-VueJs/blob/master/src/assets/POS.jpg)
 
 ## How To Install
 
